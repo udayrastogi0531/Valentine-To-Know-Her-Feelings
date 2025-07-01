@@ -30,11 +30,7 @@
 
 ---
 
-## 🎬 Preview
-
-| 💻 Desktop UI | 📱 Mobile Responsive |
-|--------------|----------------------|
-| ![Preview](https://via.placeholder.com/500x300.png?text=Add+Screenshot+Here) | ![Mobile](https://via.placeholder.com/200x400.png?text=Mobile+Screenshot) |
+|
 
 🎥 You can also add a **GIF screen recording** of interaction!
 
